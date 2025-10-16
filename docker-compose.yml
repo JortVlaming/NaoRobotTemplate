@@ -1,0 +1,4 @@
+services:
+  nao-robot:
+    build: .
+    container_name: nao-robot
